@@ -325,7 +325,7 @@ font-size: 16px;
     color: #626262;
 }
 /*fin subir post*/
-/*inicio perfil*/
+/*inicio post*/
 .user-profile
 {
     display: flex;
@@ -448,4 +448,26 @@ font-size: 16px;
 .post-row a
 {
     color: #9a9a9a;
+}
+/*fin post*/
+/*inicio boton cargar mas*/
+.load-more-btn
+{
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    padding: 5px 10px;
+    border :1px solid #9a9a9a;
+    color: #626262;
+    background:transparent;
+    border-radius: 4px;
+}
+/*fin boton cargar mas*/
+/*inicio del footer*/
+.footer
+{
+    text-align: center;
+    color: #9a9a9a;
+    padding: 10 px 0 20px;
+    font-size: 20px;
 }
